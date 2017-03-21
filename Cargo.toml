@@ -2,5 +2,7 @@
 name = "hashmacro"
 version = "0.1.0"
 authors = ["andrwfn <fn.andrw@gmail.com>"]
+license = "MIT"
+homepage = "https://github.com/fn-andrw/hashmacro/blob/master/README.md"
 
 [dependencies]
