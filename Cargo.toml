@@ -2,3 +2,5 @@
 name = "hashmacro"
 version = "0.1.0"
 authors = ["andrwfn <fn.andrw@gmail.com>"]
+
+[dependencies]
